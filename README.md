@@ -1,4 +1,4 @@
-#可能用到的库
+# 可能用到的库
 urllib2
 BeautifulSoup
 
