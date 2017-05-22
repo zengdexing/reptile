@@ -52,7 +52,7 @@ while i<1:
 					print soupa
 					lists+=1
 					f.write(soupa['src'].encode('utf-8').strip()+'\n')
-					path = 'C:\\Users\\xzz64\\Desktop\\python demo\\image\\'+name['alt']+str(lists)+'.jpg'
+					path = 'D:\\image\\'+name['alt']+str(lists)+'.jpg'
 					urllib.urlretrieve(soupa['src'],path)
 					sleep(random.uniform(0.5,1))
 				except Exception,e:
