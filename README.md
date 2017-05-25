@@ -3,7 +3,7 @@
 * urllib2
 * BeautifulSoup
 
-## 介绍（现在写个东西都要蹭妹子，才有人看，由于我是一个渣前端，所以代码写的有点偏javascript！！）
+## 介绍（现在写个东西都要蹭妹子，才有人看！）
 ### qiushibaike 爬取糗事百科 爬取段子，文字，默认保存在当前目录下的xiao.txt
 ![糗事百科](http://www.zengdexing.cn/chuangtu/xiaohua.png)
 ### piaoliangmeizi 爬取清纯妹子 爬取图片，保存D盘下的image。(都打码了！学习技术就好)
